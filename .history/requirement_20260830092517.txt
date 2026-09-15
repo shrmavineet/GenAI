@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain_mistralai
+dotenv
+langchain-google-genai
+lanchain

@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain_mistralai
+dotenv
+langchain-google-genai
+langchain-anthropic
+langchain-groq
+langchain-openrouter
+streamlit
+langchain-ollama
+langchain-community
+langchain_google-community
